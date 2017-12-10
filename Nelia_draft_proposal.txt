@@ -1,0 +1,85 @@
+Dear North Shore Health Network,
+
+
+-Proposal for the Redesign of the North Shore Health Centre Website-
+
+The North Shore Health Network’s website is an essential component of
+hospital’s online presence. The website serves as an information hub for
+both patients and staff, as well as a channel increase engagement and
+awareness of hospital services and initiatives, and improve overall
+patient care.
+
+A responsively designed website that is accessible for all members of
+the community will dramatically improve the visitor experience, and
+contributes to overall patient care. We will improve the website by
+carefully curating content, and conveying important information in a way
+that is easy to navigate.
+
+A content rich website will help to establishing North Shore Health
+Centre as the premier research center and healthcare provider in the
+Lake Huron and Algoma district. Moreover, a dynamically designed website
+will reflect the natural beauty and rich heritage and culture of this
+unique region.
+
+
+
+
+Content Elements
+
+There will be two main components of the Content Management System
+(CMS). A public interface where visitors will be able to see and
+interact with content, as well as an administrative interface where NSHN
+staff will be able to access features and manage the website.
+
+The Content Management System (CMS) will be designed to create a truly
+accessible user experience. Many online visitors will be sensitive to
+accessibility concerns. For example, the ability of screen readers to
+access website content is extremely important. Moreover, hospitals will
+be mandated to comply with standards set out in the Ontario
+Accessibility Act (AODA).
+
+
+Information Architecture
+
+Navigation/Layout
+
+A strong focus will be places on ease of use and intuitive navigation
+throughout the site, linking all content within a cohesive, easy to
+understand taxonomy and content hierarchy.
+
+Moreover, intuitive navigation and easy to understand information
+architecture, will not only make the website user friendly, but will
+also allow us to highlight important content. For example, creating a
+prominent and visible donate button that directs visitors to the
+foundation website will increase traffic to the foundation website, and
+may even increase donations received.
+
+Text/Accessibility
+
+All copy will be written in plain language text with Billigual and
+Aboriginal language options. To reflect the diverse population and
+languages spoken in the Lake Huron and Algoma district.
+
+Content will be displayed in a responsive design interface increasing
+ease of use, especially for tablets and mobile devices. Responsive
+design partnered with intuitive navigation and informative easy to read
+copy will vastly improve visitor experience. Moreover, intuitive
+navigation, as well as easy to understand information architecture
+
+Accessible website is an opportunity to become compliant with AODA,
+allows hospital to better service people with disabilities. For example,
+many potential patients are visually impaired would have to call in for
+an appointment can now use our accessibility options.
+
+
+Images/Multi-media
+
+Mimic flow and feel of the NWHC foundation website, cohesive online
+
+
+There
+
+Branding of hospital as a research center, highlight specializations and
+manage image. Help recruit stall and volunteers – top employer in the
+region Highlight specializations == Programs and Services
+
