@@ -1,0 +1,75 @@
+Mission Statement: 
+
+At <WE DESIGN/>, we take our client’s needs, desires,
+concerns and aspirations with wholehearted commitment. Our brand
+represents a standard of perfection and easy usability for all types of
+internet users. This applies to all facets of your website in order to
+create a stable, strong and beautiful website.
+
+Strategy: 
+
+It is our profession to create a website that provides internet
+users with good experiences for both patients and staff members. We know
+that having a responsive, reliable and accessible website translates
+into better health care. At <WE DESIGN/>, objectives are met with
+strategies. The strategy process begins with visualizing how the final
+product should function and look. The process is sparked with asking
+insightful questions such as: “What are the needs of the patients at
+nshn.care?” and “What are the needs of staff members at nshn.care?”.
+These questions lead the way to defining which features would benefit
+NSHN. Once features are defined, the next step in our strategy is to
+begin the realization process: The realization process contains four
+stages. 
+=======Step One: Incubation of ideas, sketch themes, flow charts and
+chose organization methods. 
+=======Step Two: Fertilize ideas by creating
+mock-ups of every page that will appear. 
+=======Step Three: Realize steps one
+and two into functional code that is accessible (complies with AODA)
+=======Step Four: Testing, trouble-shooting, training and launch.
+
+Objectives:
+
+Health care is at its best when all abled and
+differently-abled persons can access the information they need when they
+need it. That is why we make it an objective at <WE DESIGN/> to create a
+responsive website. Having access to service information on-the-go, on a
+website that is designed for the screen size of mobile devices, always
+creates a wonderful user experience. It is just as imperative to create
+a responsive website that is accessible for those with disabilities. For
+example, screen readers requires that code is properly created and
+built. Another objective of ours is intuitive site architecture to
+eliminate content redundancy which minimizes the amount of clicks the
+user must do. It is ideal for someone who is interested to volunteer to
+find pertaining information conveniently as to not deter them. A goal
+for your website would be to build community to enhance social
+resources. A friendly, easy-to-use website can bring online traffic and
+build a network beyond geographic limitations. Having an easy to use
+Content Management System (CMS) is another objective of ours because it
+enables staff members to have a good user experience. Creating web
+applications can streamline many administrative duties so staff can
+focus more on patients. Delegating certain aspects of running the
+hospital to web applications, such as booking appointments, can greatly
+optimize human resources. The possibilities are astounding and very
+positive.
+
+Conclusion:
+
+With the implementation of our methods, we can recreate
+nshn.care into a website that will grow the community and the
+communities’ contribution exponentially. It is well worth the time,
+effort and capital to invest in having a serious internet presence that
+will ameliorate the experience of patients and staff members alike. We
+hope you will decide to entrust this recreation with us at <WE_DESIGN>.
+Thank you.
+
+Team Biographies: 
+
+Elizabeth Kovalchuk channels her extensive musical
+training into strategic imagination, harmonious integrations of web
+development aspects, artistic designs and logical architecture. With a
+focus on media design, Elizabeth’s artistic expertise ensures products
+are delivered in aesthetically pleasing ways that provide a convincing
+brand and a great user experience.
+
+
